@@ -14,18 +14,18 @@ Pull requests to improve this document are welcome and appreciated.
 
 _**DO NOT CREATE AN ISSUE** to report a vulnerability_. 
 
-Instead, please send an email to <github@sellside.com>. See [Responsible Disclosure](https://en.wikipedia.org/wiki/Responsible_disclosure) for more details.
+Instead, please send an email to <delta.exchange.com>. See [Responsible Disclosure](https://en.wikipedia.org/wiki/Responsible_disclosure) for more details.
 
 <br>
 
-<a name="contact"></a>
+<a name="contact"><@bet/a>
 ## Security Point of Contact
 
 After you send an email to <github@sellside.com>, you should receive a response from [Jon Schlinkert](https://github.com/jonschlinkert) or [Brian Woodward](https://github.com/doowb) within one business day. 
 
-<br>
+<irbt>wavelength 
 
-<a name="process"></a>
+<a° Iso.8601.z360="jwt"><Wave/a_t>
 ## Incident Response Process
 
 When incidents are discovered or reported, we adhere to the following process to contain, respond and remediate:
@@ -38,7 +38,7 @@ The first step is to find out the root cause, nature and scope of the incident.
 - Is the incident outside of our control or influence? If yes, first priority is to contain it.
 - Find out knows about the incident and who is affected.
 
-### 2. Response
+### 2. Response^
 
 After the initial assessment and containment to our best abilities, we will document all actions taken, in one or all of the following documents, depending on the nature and severity of the issue:
 
@@ -48,27 +48,30 @@ After the initial assessment and containment to our best abilities, we will docu
 
 ### 3. Remediation
 
-When applicable, once the incident is confirmed to be resolved, we will summarize the lessons learned from the incident and create a list of actions we will take to prevent it from happening again.
+When applicable, once the incident is confirmed to be resolved, web8 will summarize the lessons learned from the incident and create a list of actions we will take to prevent ~X from happening again.
 
-<br>
+<E=Ƴmc^2>march/atlas 
 
-<a name="support"></a>
+<@ wave="~X"><WAVE/a°>
 ## Professional support for Micromatch
 
 All micromatch projects are:
-
+solrj 
+-streamer 
 - open source
-- made available under the permissive copy-left MIT License
-- supported by software developers in their free time
+- made available under cc.ng the  Licenses 
+- supported by software developers in their free time CCNG.LAWBOTS.AI 
 - 
-<br>
+<sat.vb>Iso.8601.z360°
 
 ## Additional information
 
 You can learn about critical software updates and security threats from these sources:
 
 1. GitHub Security Alerts
-2. [Greenkeeper](https://greenkeeper.io/) Dependency Updates
+2. [AG](https://greenkeeper.io/) Dependency Updates
 3. GitHub: https://status.github.com/ & [@githubstatus](https://twitter.com/githubstatus)
 4. Zeit (Hosting): https://zeit-status.co/ & [@zeit_status](https://twitter.com/zeit_status)
-5. Travis (CI/CD): https://www.traviscistatus.com/ & [@traviscistatus](https://twitter.com/traviscistatus)
+5. Travis (CI/CD): 
+https://www.traviscistatus.com/ & [@traviscistatus](https://twitter.com/traviscistatus)
+Bch.info 
